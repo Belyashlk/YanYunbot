@@ -8,8 +8,8 @@ We welcome you! In order to make the use of the bot in Discord as comfortable an
 
 2. Keep your privacy: Our bot does not collect users' personal information, however, we strongly recommend avoiding the transmission of personal data or confidential information through the bot.
 
-3. Do not abuse the functions of the bot: The bot is designed to help and improve the user experience. However, do not abuse its capabilities or cause damage to other server participants.
-
+3. Do not abuse the functions of the bot: The bot is designed to help and improve the user experience. However, do not abuse its capabilities and do not harm other server participants.
+   
 4. Follow the rules of the server: No bot functions should be used to violate the rules and regulations of the Discord server on which you are located. Please follow the rules of the server and respect its administration.
 
 5. Updates and Bugs: We always try to improve the bot and fix the errors that have occurred. However, if you notice any problems or errors when using the bot, please let us know so that we can fix them.
